@@ -6,6 +6,7 @@ Greetings,
 Firstly, I would like to say my thanks to all who showed interest in this project. Welcome.
 
 I will try to keep this as clear and concise as I can, as not to waste your precious time. Here I will present a simple outline of the projects main features and its general structure. At the bottom of the page you will find a video showcasing short and simple gameplay. The game is unpolished to say the least but most of the planned features work as intended.
+
 If you do choose to download the project for yourself, the credentials for the demo account are demo/demo (user/pass). Also, my apologies for the state of the art in this game. All art was done by me in Photoshop and well, you can see why I'm a programmer...
 
 Vision
