@@ -35,6 +35,6 @@ Structure
         At all other levels the player will choose from a set of General Talents which simply enhance base stats of the class.
         Most of the other scripts not mentioned here are for the implementation of skills and their various helper scripts (Thunderbolt, Bomb, and so on..)
     
-  
+  Also, I feel it prudent to say that every single line of code was written by me!
 
 
