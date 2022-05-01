@@ -1,4 +1,4 @@
-# Antpocalypse
+# Antpocalypse - A Roguelike Survival
 Showcase of a simple project I worked on in my spare time.
 
 Greetings,
