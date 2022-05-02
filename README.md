@@ -11,21 +11,22 @@ If you do choose to download the project for yourself, the credentials for the d
 
 Vision
 
-  The idea is a very simple game that involves dodging enemies, picking up orbs (for health and experience) and leveling up, but set in the context of a truly simulated ant enviorment. As he levels up, the player will choose from a random selection of improvements and skills which will help him to deal with overwhelmingly hostile ants. The skills are all automatic and on a timer so that the simplicity of the game is retained.
-  The goal is simple: Destroy the ant hive before ants steal a set amount of food.
+  The idea is a very simple game that involves dodging enemies, picking up orbs (for health and experience) and leveling up, but set in the context of a truly simulated ant enviorment. As he levels up, the player will choose from a random selection of improvements and skills which will help him to deal with overwhelmingly hostile ants. The skills are all automatic and on a timer so that the simplicity of the game is retained. Truly dynamic enviorment, with its destructable walls and real-time simulation, ensures that no two games are the same. 
+  The goal is simple: Destroy the ant hive before ants steal a set amount of food. 
  
 Structure
 
   The project is divided into two relatively seperate parts, that is, the simulation of the ants, and the actual gameplay. In addition to that there is, of course, the main menu scene and corresponding sql database scripts. These elements are not as important, but included nontheless.
   
-   The Simulation:
+  
+  - The Simulation:
    
-        The reference paper for implementation of ant behaviour can be found here: https://uwe-repository.worktribe.com/output/980579 
-        The basic data structure and sense/move logic of the agents is relatively unchanged from paper to implementation.
-        References to additional simulation technique, that is, approximation of the ant pheromone spread can be found in the scripts.
-        The scripts that handle ant/hive simulation are as follows: HiveModel, HiveController and Agent. HiveView is used for visualizations.
+  	The reference paper for implementation of ant behaviour can be found here: https://uwe-repository.worktribe.com/output/980579.
+  	The basic data structure and sense/move logic of the agents is relatively unchanged from paper to implementation.
+  	References to additional simulation technique, that is, approximation of the ant pheromone spread can be found in the scripts.
+  	The scripts that handle ant/hive simulation are as follows: HiveModel, HiveController and Agent. HiveView is used for visualizations.
         
-   The Gameplay:
+   - The Gameplay:
    
         Data generated from the simulation is then used for the generation of the level elements such as walls, food points and the hive. 
         From Agent data AntAgent gameobjects are initialized and updated with a simple optimization. All this is done in the WorldController script.
