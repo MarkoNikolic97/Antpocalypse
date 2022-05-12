@@ -34,6 +34,7 @@ Structure
         Each Class (Elementalist and Commando are the only two implemented at the moment) is given one active skill ("Ultimate Ability") and a set of passive skills (automatic/on a timer).
         Every third level the player will choose from a set of three talents that either enhance the already learned skills or give the player a new one. 
         At all other levels the player will choose from a set of General Talents which simply enhance base stats of the class.
+        All Talents have a set amout of levels which enhance said talent in various ways.
         Most of the other scripts not mentioned here are for the implementation of skills and their various helper scripts (Thunderbolt, Bomb, and so on..)
     
   Also, I feel it prudent to say that every single line of code was written by me!
