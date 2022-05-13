@@ -37,6 +37,7 @@ Structure
         All Talents have a set amout of levels which enhance said talent in various ways.
         Most of the other scripts not mentioned here are for the implementation of skills and their various helper scripts (Thunderbolt, Bomb, and so on..)
     
-  Also, I feel it prudent to say that every single line of code was written by me!
+Here is the short showcase of the game. I deeply apologize for my overwhelming usage of the byword "so", english is not my native language and the entire video was done withot any script. I hope you enjoy.
+
 
 
