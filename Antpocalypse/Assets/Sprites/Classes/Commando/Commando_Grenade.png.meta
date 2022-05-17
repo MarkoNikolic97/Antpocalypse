@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: fd2064a62eff2dc4ca02580d51a6144f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8016269124144799926
+    second: Commando_Grenade_0
+  - first:
+      213: -2656374880641463826
+    second: Commando_Grenade_1
+  - first:
+      213: 6840279630181931384
+    second: Commando_Grenade_2
+  - first:
+      213: -7193686062124358166
+    second: Commando_Grenade_3
+  - first:
+      213: -1249889326339527219
+    second: Commando_Grenade_4
+  - first:
+      213: 116663583823170785
+    second: Commando_Grenade_5
+  - first:
+      213: 3337556427567954545
+    second: Commando_Grenade_6
+  - first:
+      213: 4101216841953556984
+    second: Commando_Grenade_7
+  - first:
+      213: 5002243047790548079
+    second: Commando_Grenade_8
+  - first:
+      213: 74063193019437991
+    second: Commando_Grenade_9
+  - first:
+      213: 2273829187181440850
+    second: Commando_Grenade_10
+  - first:
+      213: -614311389752346938
+    second: Commando_Grenade_11
+  - first:
+      213: 1020146428589282717
+    second: Commando_Grenade_12
+  - first:
+      213: -8517297174306431887
+    second: Commando_Grenade_13
+  - first:
+      213: -3387752845673307390
+    second: Commando_Grenade_14
+  - first:
+      213: 4408764239552604023
+    second: Commando_Grenade_15
+  - first:
+      213: 6046751057999514452
+    second: Commando_Grenade_16
+  - first:
+      213: -2938521517983938859
+    second: Commando_Grenade_17
+  - first:
+      213: -4154292384947603644
+    second: Commando_Grenade_18
+  - first:
+      213: 5323632033464589947
+    second: Commando_Grenade_19
+  - first:
+      213: 6726518929279269716
+    second: Commando_Grenade_20
+  - first:
+      213: 5092670584082427805
+    second: Commando_Grenade_21
+  - first:
+      213: -6518850367624551258
+    second: Commando_Grenade_22
+  - first:
+      213: -21574608996199188
+    second: Commando_Grenade_23
+  - first:
+      213: 2974462176573378506
+    second: Commando_Grenade_24
+  - first:
+      213: 8757974363520400129
+    second: Commando_Grenade_25
+  - first:
+      213: 6553029426174528044
+    second: Commando_Grenade_26
+  - first:
+      213: -8608994481133370158
+    second: Commando_Grenade_27
+  - first:
+      213: 4547549420707466609
+    second: Commando_Grenade_28
+  - first:
+      213: 4993461856194840580
+    second: Commando_Grenade_29
+  - first:
+      213: -7869393639086514637
+    second: Commando_Grenade_30
+  - first:
+      213: -2143751831607412197
+    second: Commando_Grenade_31
+  - first:
+      213: -2979790754860150332
+    second: Commando_Grenade_32
+  - first:
+      213: 4189774843328858276
+    second: Commando_Grenade_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Commando_Grenade_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1231
+        width: 212
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdeaf6a74087aee0800000000000000
+      internalID: -1249889326339527219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_5
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1231
+        width: 212
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec010059e87e9100800000000000000
+      internalID: 116663583823170785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_6
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1231
+        width: 212
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a720343e1615e20800000000000000
+      internalID: 3337556427567954545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_7
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1231
+        width: 212
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9bd731df27ae830800000000000000
+      internalID: 4101216841953556984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 910
+        width: 212
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3dad6e410270100800000000000000
+      internalID: 74063193019437991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_10
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 930
+        width: 212
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f6dd539934e8f10800000000000000
+      internalID: 2273829187181440850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 851
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6b558bb078977f0800000000000000
+      internalID: -614311389752346938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 849
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9592f695c9482e00800000000000000
+      internalID: 1020146428589282717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_13
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 851
+        width: 36
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cd607b85b7cc980800000000000000
+      internalID: -8517297174306431887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_14
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 851
+        width: 65
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203e2d66cb84cf0d0800000000000000
+      internalID: -3387752845673307390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_15
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 851
+        width: 89
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7776afc97b31f2d30800000000000000
+      internalID: 4408764239552604023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 583
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b4749dc006ae350800000000000000
+      internalID: 6046751057999514452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_17
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 581
+        width: 137
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6c9b39f364837d0800000000000000
+      internalID: -2938521517983938859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 586
+        width: 154
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4477616161df856c0800000000000000
+      internalID: -4154292384947603644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_19
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 581
+        width: 165
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e1c8de02751e940800000000000000
+      internalID: 5323632033464589947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_20
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 583
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bb1aad355695d50800000000000000
+      internalID: 6726518929279269716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 316
+        width: 205
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f60520aeccca640800000000000000
+      internalID: 5092670584082427805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 315
+        width: 219
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a460d501246885a0800000000000000
+      internalID: -6518850367624551258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 315
+        width: 222
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41d96e10a53bff0800000000000000
+      internalID: -21574608996199188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_24
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 316
+        width: 242
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfcd781799674920800000000000000
+      internalID: 2974462176573378506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_25
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 316
+        width: 260
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7c9928439a8970800000000000000
+      internalID: 8757974363520400129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 264
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a80dd2b8901fa50800000000000000
+      internalID: 6553029426174528044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 50
+        width: 287
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d44fbeb125b68880800000000000000
+      internalID: -8608994481133370158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 51
+        width: 293
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d4dcbaa142c1f30800000000000000
+      internalID: 4547549420707466609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_29
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 53
+        width: 306
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c4f90a175c4540800000000000000
+      internalID: 4993461856194840580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_30
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 55
+        width: 326
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e9788dd2c4ac290800000000000000
+      internalID: -7869393639086514637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_31
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7276311ddf32e0800000000000000
+      internalID: -2143751831607412197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_32
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 0
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c151979818a5a6d0800000000000000
+      internalID: -2979790754860150332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commando_Grenade_33
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 0
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a80c798502152a30800000000000000
+      internalID: 4189774843328858276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

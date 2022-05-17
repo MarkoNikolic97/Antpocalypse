@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 713ba6901d282dd469bcfc0891be3005
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2404481160581148527
+    second: antSheeth_Body_0
+  - first:
+      213: -3246603314921864343
+    second: antSheeth_Body_1
+  - first:
+      213: -732471556439279324
+    second: antSheeth_Body_2
+  - first:
+      213: -2274693800584255349
+    second: antSheeth_Body_3
+  - first:
+      213: 6545256065767643152
+    second: antSheeth_Body_4
+  - first:
+      213: -6887482183941339949
+    second: antSheeth_Body_5
+  - first:
+      213: 1619606092026975098
+    second: antSheeth_Body_6
+  - first:
+      213: -1394276218526941721
+    second: antSheeth_Body_7
+  - first:
+      213: -1985934195530877215
+    second: antSheeth_Body_8
+  - first:
+      213: 8213632689953579498
+    second: antSheeth_Body_9
+  - first:
+      213: 7814248231826728387
+    second: antSheeth_Body_10
+  - first:
+      213: -2673460232268706416
+    second: antSheeth_Body_11
+  - first:
+      213: 1890937159740184108
+    second: antSheeth_Body_12
+  - first:
+      213: -7676813649784660578
+    second: antSheeth_Body_13
+  - first:
+      213: -824883345039714014
+    second: antSheeth_Body_14
+  - first:
+      213: -3296075872492333594
+    second: antSheeth_Body_15
+  - first:
+      213: -7019219636985831103
+    second: antSheeth_Body_16
+  - first:
+      213: -8821686652818277657
+    second: antSheeth_Body_17
+  - first:
+      213: -123059763919718968
+    second: antSheeth_Body_18
+  - first:
+      213: -6852904595952337963
+    second: antSheeth_Body_19
+  - first:
+      213: -3986597772186827945
+    second: antSheeth_Body_20
+  - first:
+      213: 5652253003635828413
+    second: antSheeth_Body_21
+  - first:
+      213: -4364822315640988355
+    second: antSheeth_Body_22
+  - first:
+      213: -5418704633292774940
+    second: antSheeth_Body_23
+  - first:
+      213: 5907679106634158106
+    second: antSheeth_Body_24
+  - first:
+      213: 4834684853945438936
+    second: antSheeth_Body_25
+  - first:
+      213: 6593334008026650669
+    second: antSheeth_Body_26
+  - first:
+      213: 2649436791546535517
+    second: antSheeth_Body_27
+  - first:
+      213: 3872504042032875932
+    second: antSheeth_Body_28
+  - first:
+      213: -8507495515116560373
+    second: antSheeth_Body_29
+  - first:
+      213: -2969894960693079173
+    second: antSheeth_Body_30
+  - first:
+      213: 2612908977185232760
+    second: antSheeth_Body_31
+  - first:
+      213: -733002401499958615
+    second: antSheeth_Body_32
+  - first:
+      213: 217278077192245434
+    second: antSheeth_Body_33
+  - first:
+      213: 5758967019203603974
+    second: antSheeth_Body_34
+  - first:
+      213: -6901729748679936898
+    second: antSheeth_Body_35
+  - first:
+      213: 3363340554372531357
+    second: antSheeth_Body_36
+  - first:
+      213: 936238414705520697
+    second: antSheeth_Body_37
+  - first:
+      213: 6384423374620054574
+    second: antSheeth_Body_38
+  - first:
+      213: -8061691235227537204
+    second: antSheeth_Body_39
+  - first:
+      213: -1394340337343686252
+    second: antSheeth_Body_40
+  - first:
+      213: 8384888592466927448
+    second: antSheeth_Body_41
+  - first:
+      213: -6701817791809145515
+    second: antSheeth_Body_42
+  - first:
+      213: -799145774247041136
+    second: antSheeth_Body_43
+  - first:
+      213: -2027815338031659021
+    second: antSheeth_Body_44
+  - first:
+      213: 707337400924165898
+    second: antSheeth_Body_45
+  - first:
+      213: -8339728441816901055
+    second: antSheeth_Body_46
+  - first:
+      213: 923476141200196867
+    second: antSheeth_Body_47
+  - first:
+      213: 896453366433327558
+    second: antSheeth_Body_48
+  - first:
+      213: 1455588357218436410
+    second: antSheeth_Body_49
+  - first:
+      213: 5874201767758059390
+    second: antSheeth_Body_50
+  - first:
+      213: -5358402459539302640
+    second: antSheeth_Body_51
+  - first:
+      213: -6242815515751293400
+    second: antSheeth_Body_52
+  - first:
+      213: -5921331507090452583
+    second: antSheeth_Body_53
+  - first:
+      213: 1166215870576294902
+    second: antSheeth_Body_54
+  - first:
+      213: -5532719538955438392
+    second: antSheeth_Body_55
+  - first:
+      213: -6770016790902602099
+    second: antSheeth_Body_56
+  - first:
+      213: -2763755376281707763
+    second: antSheeth_Body_57
+  - first:
+      213: -6172904660195024091
+    second: antSheeth_Body_58
+  - first:
+      213: -1161738237645561929
+    second: antSheeth_Body_59
+  - first:
+      213: 7965871359803011296
+    second: antSheeth_Body_60
+  - first:
+      213: -3102899780134424820
+    second: antSheeth_Body_61
+  - first:
+      213: -3831608062882180390
+    second: antSheeth_Body_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: antSheeth_Body_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1738
+        width: 196
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fee8540ee6e5120800000000000000
+      internalID: 2404481160581148527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1738
+        width: 197
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9630a7f7c7fb1f2d0800000000000000
+      internalID: -3246603314921864343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1740
+        width: 196
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429fb5e000db5d5f0800000000000000
+      internalID: -732471556439279324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1741
+        width: 197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88646b4a0aae60e0800000000000000
+      internalID: -2274693800584255349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1741
+        width: 197
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0181d0ca6bb65da50800000000000000
+      internalID: 6545256065767643152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_5
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1741
+        width: 197
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d44855f17fba60a0800000000000000
+      internalID: -6887482183941339949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_6
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1741
+        width: 197
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73935fd82ff97610800000000000000
+      internalID: 1619606092026975098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_7
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1741
+        width: 198
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed3deb9a2986ace0800000000000000
+      internalID: -1394276218526941721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1493
+        width: 198
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b4100f5b8074e0800000000000000
+      internalID: -1985934195530877215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1493
+        width: 197
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae12830f96facf170800000000000000
+      internalID: 8213632689953579498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1493
+        width: 199
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a1cc7d59c17c60800000000000000
+      internalID: 7814248231826728387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1493
+        width: 199
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d8d765516f5ead0800000000000000
+      internalID: -2673460232268706416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_12
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1493
+        width: 199
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2656e20455fd3a10800000000000000
+      internalID: 1890937159740184108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_13
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1493
+        width: 199
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d17b5b8aa767590800000000000000
+      internalID: -7676813649784660578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_14
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1493
+        width: 199
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22995c5d7fc6d84f0800000000000000
+      internalID: -824883345039714014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_15
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1493
+        width: 200
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5db53157cf142d0800000000000000
+      internalID: -3296075872492333594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1237
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1416309fde8b69e90800000000000000
+      internalID: -7019219636985831103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1237
+        width: 199
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea36f28ab2139580800000000000000
+      internalID: -8821686652818277657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1237
+        width: 198
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5fb65fbcdca4ef0800000000000000
+      internalID: -123059763919718968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1245
+        width: 199
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db7e96049795e0a0800000000000000
+      internalID: -6852904595952337963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_20
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1245
+        width: 199
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753c076b272cca8c0800000000000000
+      internalID: -3986597772186827945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_21
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1245
+        width: 199
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6295ee826d07e40800000000000000
+      internalID: 5652253003635828413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_22
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1245
+        width: 197
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d5580da390d63c0800000000000000
+      internalID: -4364822315640988355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1244
+        width: 197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e122d578d4ecc4b0800000000000000
+      internalID: -5418704633292774940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 984
+        width: 196
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a101de5e8da4cf150800000000000000
+      internalID: 5907679106634158106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 984
+        width: 196
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d211686240481340800000000000000
+      internalID: 4834684853945438936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 997
+        width: 195
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d285ee9e85a308b50800000000000000
+      internalID: 6593334008026650669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_27
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 997
+        width: 195
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e5bfe79b0b4c420800000000000000
+      internalID: 2649436791546535517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_28
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 997
+        width: 194
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9942a8a8e5edb530800000000000000
+      internalID: 3872504042032875932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_29
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 996
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00af3557ed4fe980800000000000000
+      internalID: -8507495515116560373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_30
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 997
+        width: 192
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b739aa7b440d8c6d0800000000000000
+      internalID: -2969894960693079173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_31
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 984
+        width: 191
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771e87fedae24420800000000000000
+      internalID: 2612908977185232760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 749
+        width: 192
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2361f033ad3d5f0800000000000000
+      internalID: -733002401499958615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 749
+        width: 193
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab01680924de30300800000000000000
+      internalID: 217278077192245434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 749
+        width: 194
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e22dcddf5fbef40800000000000000
+      internalID: 5758967019203603974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_35
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 749
+        width: 195
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74bf2a4c512830a0800000000000000
+      internalID: -6901729748679936898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 748
+        width: 194
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944a0a1a6cfcae20800000000000000
+      internalID: 3363340554372531357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_37
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 740
+        width: 196
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930f895b0ef2efc00800000000000000
+      internalID: 936238414705520697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_38
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 740
+        width: 197
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24ddebab370a9850800000000000000
+      internalID: 6384423374620054574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_39
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 740
+        width: 197
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0f163c88e1f1090800000000000000
+      internalID: -8061691235227537204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 197
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49991a8c9de46ace0800000000000000
+      internalID: -1394340337343686252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 501
+        width: 197
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f5733ffbb1d5470800000000000000
+      internalID: 8384888592466927448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 501
+        width: 198
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555b2d1e93c5ef2a0800000000000000
+      internalID: -6701817791809145515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_43
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 500
+        width: 199
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0972042072dd8e4f0800000000000000
+      internalID: -799145774247041136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_44
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 501
+        width: 199
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7c882a1b0cbd3e0800000000000000
+      internalID: -2027815338031659021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_45
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 501
+        width: 199
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07de665e97f0d900800000000000000
+      internalID: 707337400924165898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_46
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 501
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a184efa25534c80800000000000000
+      internalID: -8339728441816901055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_47
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 501
+        width: 198
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30549ca58a8d0dc00800000000000000
+      internalID: 923476141200196867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 439
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c926ff4697d07c00800000000000000
+      internalID: 896453366433327558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 253
+        width: 198
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35033b16e9433410800000000000000
+      internalID: 1455588357218436410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_50
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 253
+        width: 199
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77d03a826b558150800000000000000
+      internalID: 5874201767758059390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 253
+        width: 199
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01794936a5123a5b0800000000000000
+      internalID: -5358402459539302640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_52
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 253
+        width: 199
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed8514d501d59a0800000000000000
+      internalID: -6242815515751293400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_53
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 253
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f8b8aed5433dda0800000000000000
+      internalID: -5921331507090452583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_54
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 253
+        width: 199
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7f19c72b3f2010800000000000000
+      internalID: 1166215870576294902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_55
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 253
+        width: 199
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b2b694e4d733b0800000000000000
+      internalID: -5532719538955438392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_56
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 253
+        width: 197
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8602d609911c02a0800000000000000
+      internalID: -6770016790902602099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 198
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b17a6d02b25a9d0800000000000000
+      internalID: -2763755376281707763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 197
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e8b0caef655aa0800000000000000
+      internalID: -6172904660195024091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_59
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4
+        width: 197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfd52f5a3da0efe0800000000000000
+      internalID: -1161738237645561929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_60
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 5
+        width: 198
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e03487fbc57c8e60800000000000000
+      internalID: 7965871359803011296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_61
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 4
+        width: 197
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f237ff61940f4d0800000000000000
+      internalID: -3102899780134424820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: antSheeth_Body_62
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3
+        width: 197
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2926d74c463dac0800000000000000
+      internalID: -3831608062882180390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
