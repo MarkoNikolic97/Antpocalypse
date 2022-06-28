@@ -1,9 +1,6 @@
 # Antpocalypse - A Roguelike Survival
-Showcase of a simple project I worked on in my spare time.
 
 Greetings,
-
-Firstly, I would like to say my thanks to all who showed interest in this project. Welcome.
 
 I will try to keep this as clear and concise as I can, as not to waste your precious time. Here I will present a simple outline of the projects main features and its general structure. At the bottom of the page you will find a video showcasing short and simple gameplay. The game is unpolished to say the least but most of the planned features work as intended.
 
@@ -14,7 +11,7 @@ Vision
   The idea is a very simple game that involves dodging enemies, picking up orbs (for health and experience) and leveling up, but set in the context of a truly simulated ant enviorment. As he levels up, the player will choose from a random selection of improvements and skills which will help him to deal with overwhelmingly hostile ants. The skills are all automatic and on a timer so that the simplicity of the game is retained. Truly dynamic enviorment, with its destructable walls and real-time simulation, ensures that no two games are the same. 
   The goal is simple: Destroy the ant hive before ants steal a set amount of food. 
   
-  Here is a short showcase of the game. I deeply apologize for my breathing into the microphone. These two videos on the github page are the only ones I have ever made, and it shows. I hope you enjoy.
+  Here is a short showcase of the game.
 
 https://youtu.be/_nJpZ56gDzM
  
